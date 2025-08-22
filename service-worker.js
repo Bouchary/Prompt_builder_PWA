@@ -1,4 +1,4 @@
-const VERSION = "v1";
+const VERSION = "v2";
 const BASE = "/Prompt_builder_PWA";
 const CACHE = `prompts-${VERSION}`;
 const ASSETS = [
