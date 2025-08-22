@@ -1,0 +1,21 @@
+{
+  "name": "DSI Prompt Builder",
+  "short_name": "Prompts DSI",
+  "start_url": "/prompt-builder-dsi/",
+  "scope": "/prompt-builder-dsi/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b132b",
+  "icons": [
+    {
+      "src": "/prompt-builder-dsi/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/prompt-builder-dsi/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
