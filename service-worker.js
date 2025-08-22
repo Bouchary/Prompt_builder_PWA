@@ -1,5 +1,5 @@
 const VERSION = "v1";
-const BASE = "/prompt-builder-dsi";
+const BASE = "/Prompt_builder_PWA";
 const CACHE = `prompts-${VERSION}`;
 const ASSETS = [
   `${BASE}/`,
